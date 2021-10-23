@@ -30,6 +30,7 @@ dependencies:
   http: ^0.12.2
   flutter_spinkit: 4.1.2+1
   cached_network_image: 2.5.1
+  flutter_swiper: any
 
 dev_dependencies:
   flutter_test:
